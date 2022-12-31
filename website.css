@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+    background-image: url(cafee.jpg);
+    background-position: center;
+}
+h1{
+    font-family: sans-serif;
+    color: #f00000;
+    margin-top: 100;
+    margin-left: 99px;
+    font-size: 70
+}
+b{
+    font-family: sans-serif;
+    color: #0093ff;
+    margin-top: -15px;
+}

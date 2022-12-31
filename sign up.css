@@ -1,0 +1,59 @@
+body{
+    margin: ;
+    padding: 0;
+    background-image: url(cafee.jpg);
+    background-size: cover;
+}
+.box{
+    width:300px;
+    padding:70px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    background:#2f2f2f;
+    height:550px;
+}
+.box input[type="text"]{
+    border: 0;
+    background:none;
+    margin: 20px 38;
+    text-align: center;
+    border:2px solid #00c4ff;
+    border-radius: 30px;
+    padding: 14px;
+    width:200px;
+    outline: none;
+    color:white;
+}
+.box input[type="email"],.box input[type="password"],.box input[type="number"]{
+    border: 0;
+    background:none;
+    margin: 20px 38;
+    text-align: center;
+    border:2px solid #00c4ff;
+    border-radius: 30px;
+    padding: 14px;
+    width:200px;
+    outline: none;
+    color:white;
+}
+.box input:focus{
+    transform: translate;
+    border-color: #ff0000;
+    width: 250px;
+}
+.box input[type="submit"]{
+    border: 0;
+    background:none;
+    margin:20px 59;
+    text-align: center;
+    border:2px solid #00c4ff;
+    border-radius: 30px;
+    padding: 14px;
+    width:150px;
+    outline: none;
+    color:white;
+}
+
+

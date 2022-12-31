@@ -1,0 +1,54 @@
+body{
+    background-size: cover;
+    background-image: url(cafee.jpg);
+    background-position: center;
+}
+h1{
+    font-family: sans-serif;
+    color: #f00000;
+    margin-top: 100;
+    margin-left: 99px;
+    font-size: 70
+}
+.welcome{
+    font-family: cursive;
+    color: #fff;
+    text-decoration: underline;
+}
+.happy{
+    font-family: cursive;
+    color: #fff;
+    text-decoration: underline;
+}
+b{
+    font-family: sans-serif;
+    color: #0093ff;
+    margin-top: -15px;
+}
+p{
+    color: #fff;
+    font-weight: 900;
+    margin-left: 99px;
+    font-size: 30;
+}
+input{
+    background-color: transparent;
+    border: solid 2px red;
+    border-radius: 90px;
+    padding: 15 50 15;
+    margin-left: 110px;
+    margin-top: 30px;
+    cursor: pointer;
+    color: #fff;
+    font-weight: 900;
+}
+input:hover{
+    transform: translate;
+    border-color: #7b0098;
+    background-color: #00fffa;
+    color: black;
+}
+.in{
+    padding-left: 300;
+    margin-top: -100;
+}
